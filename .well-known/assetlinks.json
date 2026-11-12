@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.piehelmet.autopulse",
+      "sha256_cert_fingerprints": [
+        "F1:FC:4A:4C:60:89:DC:40:47:56:13:7C:D3:A8:3E:DC:FB:1A:3A:48:EA:78:DE:E0:95:33:26:E9:67:61:81:13"
+      ]
+    }
+  }
+]
